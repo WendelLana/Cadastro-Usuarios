@@ -1,0 +1,4 @@
+O usuário Wendel (1) acessou o sistema às 22:14:28 do dia 22/07/2022 
+O usuário Wendel (1) deslogou do sistema às 22:14:30 do dia 22/07/2022 
+O usuário Admin (2) acessou o sistema às 22:14:37 do dia 22/07/2022 
+O usuário Admin (2) deslogou do sistema às 22:14:38 do dia 22/07/2022 
