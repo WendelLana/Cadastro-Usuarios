@@ -6,8 +6,8 @@ namespace wendel_d3_avaliacao.Repositories
 {
     internal class UserRepository : IUser
     {
-        private readonly string stringConexao = "Data Source=DESKTOP-RJNUR4N\\SQLEXPRESS;Initial Catalog=Login; user id=sa; pwd=root1234;TrustServerCertificate=true;";
-        //private readonly string stringConexao = "Data source=DESKTOP-RJNUR4N\\SQLEXPRESS; initial catalog=Login; integrated security=true;";
+        private readonly string stringConexao = "Data Source=DESKTOP-RJNUR4N\\SQLEXPRESS;Initial Catalog=wendel-d3-avaliacao; user id=sa; pwd=root1234;TrustServerCertificate=true;";
+        //private readonly string stringConexao = "Data source=DESKTOP-RJNUR4N\\SQLEXPRESS; initial catalog=wendel-d3-avaliacao; integrated security=true;";
 
         public void Create(User user)
         {
