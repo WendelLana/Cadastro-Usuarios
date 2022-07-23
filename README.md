@@ -1,5 +1,4 @@
-Avaliação disciplina Programação Avançada em C#
-Wendel Fernandes de Lana
+Avaliação disciplina Programação Avançada em C# - Wendel Fernandes de Lana
 
 Query para criação do banco de dados:
 ```
