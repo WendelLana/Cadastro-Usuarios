@@ -2,6 +2,7 @@ Avaliação disciplina Programação Avançada em C#
 Wendel Fernandes de Lana
 
 Query para criação do banco de dados:
+```
 CREATE DATABASE [wendel-d3-avaliacao];
 
 USE [wendel-d3-avaliacao];
@@ -14,3 +15,4 @@ Password varchar(50) NOT NULL
 );
 
 INSERT INTO UserLogin (Name, Email, Password) VALUES ('Admin', 'admin@email.com', 'admin123');
+```
